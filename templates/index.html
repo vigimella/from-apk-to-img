@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form action="{{ url_for("upload_apk") }}" method="post" enctype="multipart/form-data">
+    <input type="file" id="apk-file-to-image" name="file">
+    <input type="submit" value="send">
+</form>
+</body>
+</html>
