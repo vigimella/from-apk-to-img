@@ -142,7 +142,7 @@ def upload_apk():
     # grayscale image conversion
 
     grayScaleImg = Image.open('new-malware-img-300-300.jpg').convert('LA')
-    grayScaleImg.save('new-malware-img-300-300-greyscale.jpg')
+    grayScaleImg.save('new-malware-img-300-300-greyscale.png')
 
     # elimination of elements that are no longer useful
 
