@@ -5,6 +5,6 @@ This tool, built thanks flask, allows to get an APK in input and converts it in 
 - grayscale image in png extension
 - image in RGB in jpg extension 
 
-The idea at the bottom of this tool is gett the dex file stored in APK, converting it into hexadecimal and convert the hex string in colors.
+The idea at the bottom of this tool is to get the dex file stored in APK, converting it into hexadecimal and convert the hex string in colors.
 
   
