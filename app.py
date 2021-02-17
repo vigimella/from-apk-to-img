@@ -4,7 +4,7 @@ Author: Giovanni Ciaramella
 Date: February 14th 2021
 
 Description: This tool gets an APK file in input, extracts from it dex file and converts it both in image in grayscale
-and color image. The APK files, after the upload,  will be stored into the APK_STORAGE with hash code to avoid duplicate
+and color image. The APK files, after the upload, will be stored into the APK_STORAGE with hash code to avoid duplicate
 applications with a different name.
 
 IF YOU USE THIS TOOL PLEASE QUOTE ME :)
